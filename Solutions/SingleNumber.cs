@@ -23,7 +23,7 @@ namespace Solutions
             return nums[i];
         }
 
-        public int ExecuteUsingXor(int[] nums)
+        public int ExecuteUsingXorFastest(int[] nums)
         {
             int i = 0;
             int result = 0;
