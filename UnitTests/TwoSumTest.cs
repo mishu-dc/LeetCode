@@ -8,7 +8,7 @@ namespace UnitTests
     public class TwoSumTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TwoSumTestMethod1()
         {
             TwoSum sum = new TwoSum();
             int[] res = sum.Execute(new int[] { -1, -2, -3, -6 }, -8);
@@ -16,7 +16,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void TestMethod2()
+        public void TwoSumTestMethod2()
         {
             TwoSum sum = new TwoSum();
             int[] res = sum.Execute(new int[] { 1, 2, 3 }, 4);

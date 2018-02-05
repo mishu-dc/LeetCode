@@ -8,7 +8,7 @@ namespace UnitTests
     public class TwoSum2Test
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TwoSum2TestMethod1()
         {
             TwoSum2 twoSum = new TwoSum2();
             int[] result = twoSum.TwoSumByBinarySearch(new int[] { 2, 3, 4 }, 6);
@@ -16,7 +16,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void TestMethod2()
+        public void TwoSum2TestMethod2()
         {
             TwoSum2 twoSum = new TwoSum2();
             int[] result = twoSum.TwoSumFaster(new int[] { 2, 3, 4 }, 6);
@@ -24,7 +24,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void TestMethod3()
+        public void TwoSum2TestMethod3()
         {
             TwoSum2 twoSum = new TwoSum2();
             int[] result = twoSum.TwoSumFaster(new int[] { 1, 1, 4 }, 2);

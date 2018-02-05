@@ -12,7 +12,7 @@ namespace UnitTests
     public class AddTwoNumbersTest : UnitTestBase
     {
         [TestMethod]
-        public void TestMethod1()
+        public void AddTwoNumbersTestMethod1()
         {
             AddTwoNumbers nums = new AddTwoNumbers();
             ListNode res = nums.Execute(base.GetListNode(new int[] { 9, 9, 9 }), base.GetListNode(new int[] { 9, 9, 9 }));
@@ -21,7 +21,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void TestMethod2()
+        public void AddTwoNumbersTestMethod2()
         {
             AddTwoNumbers nums = new AddTwoNumbers();
             ListNode res = nums.Execute(base.GetListNode(new int[] { 9 }), base.GetListNode(new int[] { 9 }));

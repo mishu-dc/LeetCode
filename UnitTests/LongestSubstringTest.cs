@@ -12,7 +12,7 @@ namespace UnitTests
     public class LongestSubstringTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void LongestSubstringTestMethod1()
         {
             LongestSubstring subString = new LongestSubstring();
             int length = subString.Execute("abcdef");
@@ -20,7 +20,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void TestMethod2()
+        public void LongestSubstringTestMethod2()
         {
             LongestSubstring subString = new LongestSubstring();
             int length = subString.Execute("abcabcabcabc");
@@ -28,7 +28,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void TestMethod3()
+        public void LongestSubstringTestMethod3()
         {
             LongestSubstring subString = new LongestSubstring();
             int length = subString.Execute("abcabcabcabcx");
@@ -36,7 +36,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void TestMethod4()
+        public void LongestSubstringTestMethod4()
         {
             LongestSubstring subString = new LongestSubstring();
             int length = subString.Execute("a");

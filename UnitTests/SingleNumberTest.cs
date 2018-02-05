@@ -8,7 +8,7 @@ namespace UnitTests
     public class SingleNumberTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void SingleNumberTestMethod1()
         {
             SingleNumber number = new SingleNumber();
             int result = number.ExecuteUsingXorFastest(new int[] { 1, 2, 3, 1, 2, 3, 5 });
