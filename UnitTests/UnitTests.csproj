@@ -56,6 +56,7 @@
     <Compile Include="TwoSumTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitTestBase.cs" />
+    <Compile Include="ValidPalindromeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

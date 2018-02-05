@@ -48,6 +48,7 @@
     <Compile Include="SingleNumber.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="TwoSum2.cs" />
+    <Compile Include="ValidPalindrome.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
