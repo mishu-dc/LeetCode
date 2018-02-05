@@ -11,7 +11,7 @@ namespace UnitTests
         public void TestMethod1()
         {
             SingleNumber number = new SingleNumber();
-            int result = number.ExecuteUsingXor(new int[] { 1, 2, 3, 1, 2, 3, 5 });
+            int result = number.ExecuteUsingXorFastest(new int[] { 1, 2, 3, 1, 2, 3, 5 });
             Assert.AreEqual(result, 5);
         }
     }
