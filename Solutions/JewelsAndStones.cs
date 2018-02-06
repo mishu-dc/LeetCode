@@ -25,5 +25,18 @@ namespace Solutions
             
             return count;
         }
+
+
+        public int NumJewelsInStonesOptimized(string J, string S)
+        {
+            int count = 0;
+            char[] stones = S.ToCharArray();
+
+            foreach (char s in stones)
+                if (J.Contains(s))
+                    count++;
+
+            return count;
+        }
     }
 }

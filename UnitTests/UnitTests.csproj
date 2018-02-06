@@ -50,8 +50,9 @@
   <ItemGroup>
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="ImplementStrStrTest.cs" />
+    <Compile Include="LongestPalindromeTest.cs" />
     <Compile Include="LongestSubstringTest.cs" />
-    <Compile Include="NumJewelsInStonesTest.cs" />
+    <Compile Include="JewelsInStonesTest.cs" />
     <Compile Include="RemoveNthNodeTest.cs" />
     <Compile Include="SingleNumberTest.cs" />
     <Compile Include="TwoSum2Test.cs" />
