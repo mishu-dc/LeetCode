@@ -54,6 +54,7 @@
     <Compile Include="LongestSubstringTest.cs" />
     <Compile Include="JewelsInStonesTest.cs" />
     <Compile Include="RemoveNthNodeTest.cs" />
+    <Compile Include="SelfDividingNumbersTest.cs" />
     <Compile Include="SingleNumberTest.cs" />
     <Compile Include="TwoSum2Test.cs" />
     <Compile Include="TwoSumTest.cs" />
