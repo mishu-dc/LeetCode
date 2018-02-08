@@ -49,7 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddTwoNumbers.cs" />
+    <Compile Include="HammingDistanceTest.cs" />
     <Compile Include="ImplementStrStrTest.cs" />
+    <Compile Include="JudgeRouteCircleTest.cs" />
     <Compile Include="LongestPalindromeTest.cs" />
     <Compile Include="LongestSubstringTest.cs" />
     <Compile Include="JewelsInStonesTest.cs" />

@@ -13,7 +13,7 @@ namespace UnitTests
         {
             HammingDistance distance = new HammingDistance();
             int value = distance.Solution(1, 400);
-            Assert.Equals(4, value);
+            Assert.AreEqual(4, value);
         }
     }
 }

@@ -42,8 +42,10 @@
   <ItemGroup>
     <Compile Include="AddTwoNumbers.cs" />
     <Compile Include="Basic.cs" />
+    <Compile Include="HammingDistance.cs" />
     <Compile Include="ImplementStrStr.cs" />
     <Compile Include="JewelsAndStones.cs" />
+    <Compile Include="JudgeRouteCircle.cs" />
     <Compile Include="LongestPalindrome.cs" />
     <Compile Include="LongestSubstring.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
