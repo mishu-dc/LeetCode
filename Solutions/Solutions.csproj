@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddTwoNumbers.cs" />
+    <Compile Include="ArrayPairSum.cs" />
     <Compile Include="Basic.cs" />
     <Compile Include="HammingDistance.cs" />
     <Compile Include="ImplementStrStr.cs" />
