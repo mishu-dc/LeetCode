@@ -16,6 +16,7 @@ namespace Solutions
                 builder.Append(reverse);
                 builder.Append(" ");
             }
+
             string result = builder.ToString();
             return result.Substring(0, result.Length - 1);
         }

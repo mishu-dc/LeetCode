@@ -57,6 +57,7 @@
     <Compile Include="LongestSubstringTest.cs" />
     <Compile Include="JewelsInStonesTest.cs" />
     <Compile Include="RemoveNthNodeTest.cs" />
+    <Compile Include="ReverseVowelsTest.cs" />
     <Compile Include="ReverseWordsTest.cs" />
     <Compile Include="SelfDividingNumbersTest.cs" />
     <Compile Include="SingleNumberTest.cs" />
