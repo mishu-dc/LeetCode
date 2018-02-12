@@ -52,6 +52,7 @@
     <Compile Include="LinkedListCicle.cs" />
     <Compile Include="LongestPalindrome.cs" />
     <Compile Include="LongestSubstring.cs" />
+    <Compile Include="PlusOne.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveNthNode.cs" />
     <Compile Include="ReverseVowels.cs" />
