@@ -48,8 +48,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddTwoNumbers.cs" />
-    <Compile Include="AddTwoNumbers2Test.cs" />
+    <Compile Include="LinkList\AddTwoNumbers.cs" />
+    <Compile Include="LinkList\AddTwoNumbers2Test.cs" />
     <Compile Include="ArrayPairSumTest.cs" />
     <Compile Include="HammingDistanceTest.cs" />
     <Compile Include="ImplementStrStrTest.cs" />
