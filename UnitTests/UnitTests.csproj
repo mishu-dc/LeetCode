@@ -48,20 +48,24 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array\FindDisappearedNumbersTest.cs" />
     <Compile Include="LinkList\AddTwoNumbers.cs" />
     <Compile Include="LinkList\AddTwoNumbers2Test.cs" />
     <Compile Include="ArrayPairSumTest.cs" />
     <Compile Include="HammingDistanceTest.cs" />
     <Compile Include="ImplementStrStrTest.cs" />
     <Compile Include="JudgeRouteCircleTest.cs" />
+    <Compile Include="LinkList\PalindromeLinkedListTest.cs" />
     <Compile Include="LongestPalindromeTest.cs" />
     <Compile Include="LongestSubstringTest.cs" />
     <Compile Include="JewelsInStonesTest.cs" />
+    <Compile Include="PalindromeNumberTest.cs" />
     <Compile Include="RemoveNthNodeTest.cs" />
     <Compile Include="ReverseVowelsTest.cs" />
     <Compile Include="ReverseWordsTest.cs" />
     <Compile Include="SelfDividingNumbersTest.cs" />
     <Compile Include="SingleNumberTest.cs" />
+    <Compile Include="Tree\SymmetricTreeTest.cs" />
     <Compile Include="TwoSum2Test.cs" />
     <Compile Include="TwoSumTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
