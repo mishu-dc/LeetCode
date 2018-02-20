@@ -63,6 +63,12 @@
     <Compile Include="ReverseWords.cs" />
     <Compile Include="SelfDividingNumbers.cs" />
     <Compile Include="SingleNumber.cs" />
+    <Compile Include="Tree\ArraytoBinarySearchTree.cs" />
+    <Compile Include="Tree\BinaryTreeRightSideView.cs" />
+    <Compile Include="Tree\DiameterOfBinaryTree.cs" />
+    <Compile Include="Tree\FindLeavesOfBinaryTree.cs" />
+    <Compile Include="Tree\InvertTree.cs" />
+    <Compile Include="Tree\MergeTwoBinaryTrees.cs" />
     <Compile Include="Tree\SymmetricTree.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="TwoSum2.cs" />

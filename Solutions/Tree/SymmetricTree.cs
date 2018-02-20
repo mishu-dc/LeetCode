@@ -6,12 +6,19 @@ using System.Threading.Tasks;
 
 namespace Solutions
 {
+    /*https://leetcode.com/problems/symmetric-tree/description/*/
     public class SymmetricTree
     {
-        public bool IsSymmetric(TreeNode root)
+        public bool IsSymmetricRecursive(TreeNode root)
         {
             if (root == null) return true;
             return recure(root.left, root.right);
+        }
+
+        //Pending
+        public bool IsSymmetricIterative(TreeNode root)
+        {
+            return false;
         }
 
         public bool recure(TreeNode left, TreeNode right)
